@@ -1,0 +1,10 @@
+D:\Visual Studio\Comparer listes\Comparer listes\bin\Release\Comparer listes.exe.config
+D:\Visual Studio\Comparer listes\Comparer listes\bin\Release\Comparer listes.exe
+D:\Visual Studio\Comparer listes\Comparer listes\bin\Release\Comparer listes.pdb
+D:\Visual Studio\Comparer listes\Comparer listes\obj\Release\Comparer_listes.mainForm.resources
+D:\Visual Studio\Comparer listes\Comparer listes\obj\Release\Comparer_listes.Properties.Resources.resources
+D:\Visual Studio\Comparer listes\Comparer listes\obj\Release\Comparer listes.csproj.GenerateResource.cache
+D:\Visual Studio\Comparer listes\Comparer listes\obj\Release\Comparer listes.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Comparer listes\Comparer listes\obj\Release\Comparer listes.exe
+D:\Visual Studio\Comparer listes\Comparer listes\obj\Release\Comparer listes.pdb
+D:\Visual Studio\Comparer listes\Comparer listes\obj\Release\Comparer_listes.aboutForm.resources
